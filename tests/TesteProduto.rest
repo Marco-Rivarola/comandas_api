@@ -26,5 +26,5 @@ content-type: application/json
     "valor_unitario" : "3.50"
 }
 
-### Verbo DELETE - excluir
+### Verbo DELETE - excluir 
 DELETE http://127.0.0.1:8000/produto/3 HTTP/1.1
